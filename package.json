@@ -73,7 +73,7 @@
   },
   "dependencies": {
     "equals": "^1.0.5",
-    "ng2-material-dropdown": "0.7.5"
+    "ng2-material-dropdown": "0.8.2"
   },
   "keywords": [
     "angular 2",
